@@ -1,4 +1,4 @@
-<h1 align="center">Hello! Myself Jyotiraditya Singh</h1>
+<h1 align="center">Hello! This is Jyotiraditya Singh</h1>
 <h3 align="center">I am a first year student learning computer science...</h3>
 
 <p align="left"> <a href="https://twitter.com/jyotir_aditya01" target="blank"><img src="https://img.shields.io/twitter/follow/jyotir_aditya01?logo=twitter&style=for-the-badge" alt="jyotir_aditya01" /></a> </p>
