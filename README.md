@@ -3,9 +3,9 @@
 
 <p align="left"> <a href="https://twitter.com/jyotir_aditya01" target="blank"><img src="https://img.shields.io/twitter/follow/jyotir_aditya01?logo=twitter&style=for-the-badge" alt="jyotir_aditya01" /></a> </p>
 
-- 🌱 I’m currently learning **Web development, Blockchain, etc**
+- 🌱 I’m currently learning **Full stack development, WEB 3 development, JAVA programming, DSA and a couple of things**
 
-- 📫 How to reach me **jyotir.aditya.tf@gmail.com**
+- 📫 My email: **jyotir.aditya.tf@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
