@@ -3,6 +3,8 @@
 
 <p align="left"> <a href="https://twitter.com/jyotir_aditya01" target="blank"><img src="https://img.shields.io/twitter/follow/jyotir_aditya01?logo=twitter&style=for-the-badge" alt="jyotir_aditya01" /></a> </p>
 
+
+- ⛈️ Started coding as a hobby, and now learning about my hobby in college is really interesting       
 - 🌱 I’m currently learning **Full stack development, WEB 3 development, JAVA programming, DSA and a couple of things**
 
 - 📫 My email: **jyotir.aditya.tf@gmail.com**
