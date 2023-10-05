@@ -1,4 +1,4 @@
-<h1 align="center">system.out.print("Name: Jyotiraditya Singh");</h1>
+<h1 align="center">System.out.print("Name: Jyotiraditya Singh");</h1>
 <h3 align="center">Sophomore student learning computer science!</h3>
 
 <p align="left"> <a href="https://twitter.com/jyotir_aditya01" target="blank"><img src="https://img.shields.io/twitter/follow/jyotir_aditya01?logo=twitter&style=for-the-badge" alt="jyotir_aditya01" /></a> </p>
@@ -9,7 +9,7 @@
 
 - 📫 My email: **jyotir.aditya.tf@gmail.com**
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Connect: </h3>
 <p align="left">
 <a href="https://twitter.com/jyotir_aditya01" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="jyotir_aditya01" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/jyotir aditya" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jyotir aditya" height="30" width="40" /></a>
