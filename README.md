@@ -1,7 +1,7 @@
 <h1 align="center">printf("Name: Jyotiraditya Singh");</h1>
 <h3 align="center">Sophomore student learning computer science!</h3>
 
-<p align="left"> <a href="https://twitter.com/jyotir_aditya01" target="blank"><img src="https://img.shields.io/twitter/follow/jyotir_aditya01?logo=twitter&style=for-the-badge" alt="jyotir_aditya01" /></a> </p>
+<p align="right"> <a href="https://twitter.com/jyotir_aditya01" target="blank"><img src="https://img.shields.io/twitter/follow/jyotir_aditya01?logo=twitter&style=for-the-badge" alt="jyotir_aditya01" /></a> </p>
 
 
 - ⛈️ Started coding as a hobby, and now learning about my hobby in college is really interesting       
