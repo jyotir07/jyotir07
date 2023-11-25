@@ -1,9 +1,6 @@
 <h1 align="center">printf("Name: Jyotiraditya Singh");</h1>
 <h3 align="center">Sophomore student learning computer science!</h3>
 
-<p align="right"> <a href="https://twitter.com/jyotir_aditya01" target="blank"><img src="https://img.shields.io/twitter/follow/jyotir_aditya01?logo=twitter&style=for-the-badge" alt="jyotir_aditya01" /></a> </p>
-
-
 - ⛈️ Started coding as a hobby, and now learning about my hobby in college is really interesting       
 - 🌱 I’m currently learning **Full stack development, WEB 3 development, JAVA programming, DSA and a couple of things**
 - 📜 If we are in the same college there might be a very good chance that I have been to your batch's class 
@@ -26,10 +23,10 @@
 <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a> 
 <a herf="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40" /> </a>
 <a herf="https://www.java.com/en/" target="_blank" rel="noreferrer"> <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" alt="Java" width="40" height="40" /> </a>
-
-
 <a herf="https://www.python.org/" target="_blank" rel="noreferrer"> <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" alt="python" width="40" height="40" /> </a>
 <a herf="https://www.java.com/en/" target="_blank" rel="noreferrer"> <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" alt="java" width="40" height="40" /> </a>
 </p>
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=jyotir07&show_icons=true&locale=en&layout=compact" alt="jyotir07" /></p>
+
+<p align="right"> <a href="https://twitter.com/jyotir_aditya01" target="blank"><img src="https://img.shields.io/twitter/follow/jyotir_aditya01?logo=twitter&style=for-the-badge" alt="jyotir_aditya01" /></a> </p>
