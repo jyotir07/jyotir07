@@ -1,7 +1,7 @@
 <h1 align="center">printf("Name: Jyotiraditya Singh");</h1>
 <h3 align="center">Sophomore student learning computer science!</h3>
 
-- ⛈️ Started coding as a hobby, and now learning about my hobby in college is really interesting       
+- ⛈️ I started coding as a hobby, and now learning about my hobby in college is really interesting       
 - 🌱 I’m currently learning **Full stack development, WEB 3 development, JAVA programming, DSA and a couple of things**
 - 📜 If we are in the same college there might be a very good chance that I have been to your batch's class 
 
