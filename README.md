@@ -6,7 +6,7 @@
 - 🌱 I’m currently learning **Full stack development, WEB 3 development, JAVA programming, DSA and a couple of things**
 - 📜 If we are in the same college there might be a very good chance that I have been to your batch's class 
 
-- 📫 My email: **jyotir.aditya.tf@gmail.com**
+- 📫 Email: **jyotir.aditya.tf@gmail.com**
 
 <h3 align="left">Connect: </h3>
 <p align="left">
