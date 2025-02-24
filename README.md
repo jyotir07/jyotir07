@@ -2,7 +2,7 @@
 <h3 align="center">Sophomore student learning computer science!</h3>     
 
 # 💫 About Me:
-⛈️ I started coding as a hobby, and now learning about my hobby in college is really interesting<br><br>🌱 I’m currently learning Full stack development, WEB 3 development, JAVA programming, DSA and a couple of things<br><br>📜 If we are in the same college there might be a very good chance that I have been to your batch's class<br><br>📫 Email: jyotir.aditya.tf@gmail.com<br><br>🕔Latest learning: Shell programing using WSL
+⛈️ I started coding as a hobby, and now learning about my hobby and now taking it seriously<br><br>🌱 I’m currently learning Full stack development, WEB 3 development, JAVA programming, DSA and a couple of things<br><br>📜 If we are in the same college there might be a very good chance that I have been to your batch's class<br><br>📫 Email: jyotir.aditya.tf@gmail.com<br><br>🕔Latest learning: Shell programing using WSL
 
 
 ## 🌐 Socials:
