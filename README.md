@@ -2,7 +2,7 @@
 <h3 align="center">Final year CS student with interest in all kinds of tech :)</h3>     
 
 # 💫 About Me:
-⛈️ I started coding as a hobby, now taking it seriously<br><br>🌱 I’m currently learning Springboot, WEB 3 development and a couple of things<br><br>📜 If we are in the same college there might be a very good chance that I have been to your batch's class<br><br>📫 Email: jyotiraditya.singh.tech@gmail.com<br><br>🕔Latest learning: Shell programing using WSL
+🍵 Aiming for more coffee than sleep and more commits than excuses.<br><br>🌱 Currently exploring and exploiting my projects to gain a deeper knowledge.<br><br>📜 If we were in the same college there might be a very good chance that I have been to your batch's class<br><br>📫 Email: jyotiraditya.singh.tech@gmail.com<br><br>🕔Latest learning: Shell programing using WSL
 
 
 ## 🌐 Socials:
