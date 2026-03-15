@@ -11,6 +11,8 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=jyotir07&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=jyotir07&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jyotir07" alt="jyotir07" /></a> </p>
+
 ## 🔗 Connect with me:
 <p align="left">
 <a href="https://www.leetcode.com/jyotir07" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="jyotir07" height="30" width="40" /></a>
