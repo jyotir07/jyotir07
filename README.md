@@ -8,11 +8,10 @@
 ## 💻 Tech Stack:
 [![My Skills](https://skillicons.dev/icons?i=py,cpp,java,html,css,js,react,nodejs,express,mongodb,docker,git,github,linux,mysql,notion,npm,postman,supabase,bash,tailwind,next,rust,firebase&perline=8)](https://skillicons.dev)
 ## 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=jyotir07&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=jyotir07&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=jyotir07&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+![jyotir07's Stats](https://github-readme-stats.vercel.app/api?username=jyotir07&theme=jolly&show_icons=true&hide_border=true&count_private=true)
+![jyotir07's Streak](https://github-readme-streak-stats.herokuapp.com/?user=jyotir07&theme=jolly&hide_border=true)
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jyotir07" alt="jyotir07" /></a> </p>
+<!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jyotir07" alt="jyotir07" /></a> </p> -->
 
 ## 🔗 Connect with me:
 <p align="left">
