@@ -1,5 +1,6 @@
-<h1 align="center">printf("Name: Jyotiraditya Singh");</h1>
-<h3 align="center">Final year CS student with interest in all kinds of tech :)</h3>     
+<!-- <h1 align="center">printf("Name: Jyotiraditya Singh");</h1>
+<h3 align="center">Final year CS student with interest in all kinds of tech :)</h3>      -->
+![Header](./github-header-banner.png)
 
 ## 💫 About Me:
 🍵 Aiming for more coffee than sleep and more commits than excuses.<br><br>🌱 Exploring and exploiting my own code actively :)<br><br>📜 If we were in the same college there might be a very good chance that I have been to your batch's class<br><br>📫 Email: jyotiraditya.singh.tech@gmail.com<br><br>🕔Latest learning: Shell programing using WSL
