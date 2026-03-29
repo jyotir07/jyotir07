@@ -6,7 +6,7 @@
 🍵 Aiming for more coffee than sleep and more commits than excuses.<br><br>🌱 Exploring and exploiting my own code actively :)<br><br>📜 If we were in the same college there might be a very good chance that I have been to your batch's class<br><br>📫 Email: jyotiraditya.singh.tech@gmail.com<br><br>🕔Latest learning: Shell programing using WSL
 
 ## 💻 Tech Stack:
-[![My Skills](https://skillicons.dev/icons?i=py,cpp,java,html,css,js,react,nodejs,express,mongodb,docker,git,github,linux,mysql,notion,npm,postman,supabase,bash,tailwind,next,rust,firebase&perline=8)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=py,cpp,java,html,css,js,react,nodejs,express,mongodb,docker,git,github,linux,mysql,ubuntu,npm,postman,supabase,bash,tailwind,next,rust,firebase&perline=8)](https://skillicons.dev)
 ## 📊 GitHub Stats:
 ![jyotir07's Streak](https://github-readme-streak-stats.herokuapp.com/?user=jyotir07&theme=jolly&hide_border=true)
 ![jyotir07's Stats](https://github-readme-stats.vercel.app/api?username=jyotir07&theme=jolly&show_icons=true&hide_border=true&count_private=true)
