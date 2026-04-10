@@ -1,5 +1,4 @@
 <!-- <h1 align="center">printf("Name: Jyotiraditya Singh");</h1>
-<h3 align="center">Final year CS student with interest in all kinds of tech :)</h3>      -->
 ![Header](./github-header-banner%20(2).png)
 
 ## 💫 About Me:
