@@ -1,4 +1,4 @@
-<!-- <h1 align="center">printf("Name: Jyotiraditya Singh");</h1>
+<!-- <h1 align="center">printf("Name: Jyotiraditya Singh");</h1> -->
 ![Header](./github-header-banner%20(2).png)
 
 ## 💫 About Me:
