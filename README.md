@@ -3,6 +3,19 @@
 🍵 Aiming for more coffee than sleep and more commits than excuses.<br><br>🌱 Exploring and exploiting my own code actively :)<br><br>📜 If we were in the same college there might be a very good chance that I have been to your batch's class<br><br>📫 Email: jyotiraditya.singh.tech@gmail.com<br><br>🕔Latest learning: Agentic Ai
 ## 💻 Tech Stack:
 [![My Skills](https://skillicons.dev/icons?i=py,cpp,java,html,css,js,react,nodejs,express,mongodb,docker,ubuntu,linux,git,github,mysql,npm,postman,supabase,bash,tailwind,next,rust,firebase,electron,kali,go&perline=8)](https://skillicons.dev)
+<!-- ## 💻 Tech Stack -->
+<!-- ### 🚀 Backend & Programming
+[![Backend Skills](https://skillicons.dev/icons?i=py,go,java,cpp,nodejs,express,rust,bash\&theme=dark)](https://skillicons.dev)
+
+### 🗄️ Databases & Messaging
+[![Database Skills](https://skillicons.dev/icons?i=postgres,mongodb,mysql,redis,rabbitmq,supabase\&theme=dark)](https://skillicons.dev)
+
+### ⚙️ DevOps & Infrastructure
+[![DevOps Skills](https://skillicons.dev/icons?i=docker,kubernetes,linux,ubuntu,nginx,git,github\&theme=dark)](https://skillicons.dev)
+
+### 🤖 AI & Frontend
+[![AI Frontend Skills](https://skillicons.dev/icons?i=react,nextjs,tailwind,js\&theme=dark)](https://skillicons.dev) -->
+
 ## 📊 GitHub Stats:
 ![jyotir07's Streak](https://github-readme-streak-stats.herokuapp.com/?user=jyotir07&theme=jolly&hide_border=true)
 [![Jyotir07's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=jyotir07&theme=tokyo-night&hide_border=true)](https://github.com/Jyotir07)
