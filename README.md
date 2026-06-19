@@ -1,6 +1,6 @@
 ![Header](./github-header-banner%20(2).png)
 ## 💫 About Me:
-🍵 Aiming for more coffee than sleep and more commits than excuses.<br><br>🌱 Exploring and exploiting my own code actively :)<br><br>📜 If we were in the same college there might be a very good chance that I have been to your batch's class<br><br>📫 Email: jyotiraditya.singh.tech@gmail.com<br><br>🕔Latest learning: Agentic Ai
+🍵 Aiming for more coffee than sleep and more commits than excuses.<br><br>🌱 Exploring and exploiting my own code actively :)<br><br>📜 If we were in the same college there might be a very good chance that I have been to your batch's class<br><br>📫 Email: jyotiraditya.singh.tech@gmail.com<br><br>
 ## 💻 Tech Stack:
 [![My Skills](https://skillicons.dev/icons?i=py,cpp,java,html,css,js,react,nodejs,express,mongodb,docker,ubuntu,linux,git,github,mysql,npm,postman,supabase,bash,tailwind,next,rust,firebase,electron,kali,go&perline=8)](https://skillicons.dev)
 <!-- ## 💻 Tech Stack -->
