@@ -105,7 +105,7 @@ Prototype payments system, 4 microservices across **Java / Go / Scala**. Idempot
 <td valign="top" width="50%">
 
 ### On GitHub
-<img src="https://github-readme-stats.vercel.app/api?username=jyotir07&theme=github_dark&show_icons=true&hide_border=true&count_private=true&hide=contribs&card_width=400" alt="stats" width="100%" />
+<img src="https://img.shields.io/github/followers/jyotir07?style=for-the-badge&logo=github&logoColor=white&labelColor=000000&color=333333" alt="followers" />
 
 </td>
 </tr>
