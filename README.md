@@ -2,7 +2,7 @@
 
 <p align="center">
   <b>Backend & AI-Infra Engineer</b><br>
-  <sub>Building, breaking, and occasionally sleeping.</sub>
+  <sub>Building, breaking, sipping 🍵 & shipping!</sub>
 </p>
 
 <p align="center">
