@@ -16,7 +16,7 @@
 
 ### Experience
 
-`AI Developer Intern @ Prometrix AI` — built a GEO platform that gets brands surfaced by AI models in buyer queries, and **Loom**, the AI-routing framework now standard across **10+** internship projects.
+prev. `Sr. AI Developer Intern @ Prometrix AI` — built a GEO platform that gets brands surfaced by AI models in buyer queries, and **Loom**, the AI-routing framework now standard across **10+** internship projects.
 
 Along the way: cut dashboard load **~1s → ~400ms** with Redis caching and query tuning, and lifted retrieval **Recall@5 by 9%** by benchmarking distance metrics on domain data.
 
