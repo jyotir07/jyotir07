@@ -1,4 +1,5 @@
 <h1 align="center">Jyotiraditya Singh</h1>
+<!-- <img src="./stats.svg" width="620" alt="Contributions in the last year"/> -->
 
 <p align="center">
   <b>Backend & AI-Infra Engineer</b><br>
