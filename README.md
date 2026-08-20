@@ -112,6 +112,6 @@ Prototype payments system, 4 microservices across **Java / Go / Scala**. Idempot
 </tr>
 </table>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=jyotir07&theme=github-compact&hide_border=true&area=true" alt="activity graph" width="100%" />
+<!-- <img src="https://github-readme-activity-graph.vercel.app/graph?username=jyotir07&theme=github-compact&hide_border=true&area=true" alt="activity graph" width="100%" /> -->
 
 <p align="center"><sub>B.Tech CSE, UPES Dehradun · 2022–2026 · Open to backend & AI-infra roles</sub></p>
