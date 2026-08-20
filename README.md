@@ -86,6 +86,7 @@ Prototype payments system, 4 microservices across **Java / Go / Scala**. Idempot
 
 ### I Also Write
 
+- 📝 [Backpropagating Through Time Itself: Reverse-Mode Autodiff of ODE Solutions](https://jyotiradityasingh.vercel.app/blogs/backpropagating-ode)
 - 📝 [Understanding RabbitMQ](https://jyotiradityasingh.vercel.app/blogs/rabbitmq-unpacked)
 - 📝 [How platforms detect Ai Generated code](https://jyotiradityasingh.vercel.app/blogs/debugging-leetcode)
 - 📝 [Building a RAG Pipeline](https://jyotiradityasingh.vercel.app/blogs/rag-pipeline)
