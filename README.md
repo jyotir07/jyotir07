@@ -27,14 +27,26 @@ Along the way: cut dashboard load **~1s → ~400ms** with Redis caching and quer
 
 I like the unglamorous parts of AI systems — the layers that decide *which* model, *when* to cache, and *what happens when a provider fails.*
 
-**⚡ loom-router** &nbsp;·&nbsp; [PyPI](https://pypi.org/project/loom-router/) &nbsp;·&nbsp; [Site](https://loom-weaves.vercel.app)  
+**⚡ loom-router**  ·  [PyPI](https://pypi.org/project/loom-router/)  ·  [Site](https://loom-weaves.vercel.app)  
 One `generate()` contract routing to **14+ AI providers**. Cost-optimization layer with caching, smart model routing, batch APIs, and cross-vendor failover. *Open source.*
 
-**📦 OrderMesh** &nbsp;·&nbsp; [Site](https://ordermesh.vercel.app)  
+**📦 OrderMesh**  ·  [Site](https://ordermesh.vercel.app)  
 Distributed order orchestration over RabbitMQ — inventory, payment, and delivery coordination with safe retries. Cut API latency **35%** via Redis caching, rate limiting, and background jobs.
 
-**💳 Distributed Payments Platform** &nbsp;·&nbsp; [GitHub](https://github.com/jyotir07/payment-processing-pfm)  
+**💳 Distributed Payments Platform**  ·  [GitHub](https://github.com/jyotir07/payment-processing-pfm)  
 Prototype payments system, 4 microservices across **Java / Go / Scala**. Idempotent request handling and duplicate detection to prevent double charges.
+
+**🏥 DAWA**    
+Bilingual **English/Hindi voice AI agent** for healthcare, built with the Gemini Live API. Streams live audio over WebSockets with real-time STT/TTS, interruption handling, and persistent conversation context.
+
+**🔬 Distributed Deep Research Agent**  ·  [GitHub](https://github.com/jyotir07/loom-research-agent)  
+Multi-agent research system that decomposes topics into parallel research tasks, aggregates and deduplicates results, then produces structured reports. Streams workflow progress over **SSE**, with LLM calls routed through Loom for model selection, caching, and fallback.
+
+**📝 PR4Docs**  ·  [GitHub](https://github.com/jyotir07/pr4docs)  
+"Pull requests for Word documents." An agentic document-editing system built with **LangGraph** and SuperDoc, producing native Word tracked changes with human approval, deterministic validation, and retry loops.
+
+**🏦 Vero**  ·  [GitHub](https://github.com/jyotir07/Vero)  
+AI credit-underwriting agent where the LLM proposes actions but **deterministic code owns correctness**. Actions pass through schema validation, permissions, state-machine checks, and an immutable audit trail, with human escalation for policy or confidence thresholds.
 
 ---
 
