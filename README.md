@@ -124,7 +124,8 @@ AI credit-underwriting agent where the LLM proposes actions but **deterministic 
 </td>
 </tr>
 </table>
-
+  
+![jyotir07's Streak](https://github-readme-streak-stats.herokuapp.com/?user=jyotir07&theme=jolly&hide_border=true)  
 <!-- <img src="https://github-readme-activity-graph.vercel.app/graph?username=jyotir07&theme=github-compact&hide_border=true&area=true" alt="activity graph" width="100%" /> -->
 
 <p align="center"><sub>B.Tech CSE, UPES Dehradun · 2022–2026 · Open to backend & AI-infra roles</sub></p>
