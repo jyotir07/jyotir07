@@ -96,7 +96,7 @@ AI credit-underwriting agent where the LLM proposes actions but **deterministic 
 
 ---
 
-### I Also Write
+### Oh & I Also Write
 
 - 📝 [Backpropagating Through Time Itself: Reverse-Mode Autodiff of ODE Solutions](https://jyotiradityasingh.vercel.app/blogs/backpropagating-ode)
 - 📝 [Understanding RabbitMQ](https://jyotiradityasingh.vercel.app/blogs/rabbitmq-unpacked)
